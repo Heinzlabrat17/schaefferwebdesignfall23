@@ -1,0 +1,16 @@
+h1 
+{color: blueviolet;}
+h2
+{color: aqua;}
+.header{background-color: olivedrab;}
+.header{color: white;text-align: center;}
+.odd-row{background-color: sandybrown;}
+.even-row{background-color: indianred;}
+td{padding: 10px; text-align: center;}
+.endangered{color: red;}
+.threatend{color: orangered;}
+.scientific-name{font-style: italic;}
+#Bat{border-style: dashed;}
+#Bear{border-style: double;}
+#Koala{border-style: dotted;}
+#Lynk{border-style: groove;}

@@ -1,0 +1,14 @@
+#right{text-align: right;}
+header{border-style: dashed; text-align: center;background-color: lightgreen;}
+#move{text-align: left;color: white;background-color:lightskyblue;border-style: double;}
+#pic{background-image: url(kids.jpg);
+    background-repeat: no-repeat;
+    background-size: fill; filter: grayscale(60%);
+}
+img{ width: 200px; height: 200px; border-style: dashed;}
+img:hover{width: 400px; height: 400px; border-style: dashed;transition: width 3s, height 3s; }
+a:hover{font-size: 20px;}
+#color{background-color: bisque;}
+#blank{
+    height: 200px;
+}
