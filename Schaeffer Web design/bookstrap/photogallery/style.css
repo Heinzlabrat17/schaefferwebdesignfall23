@@ -3,6 +3,7 @@ body{
 }
 h1 {
     color: #9099A2; 
+    
 }
 
 h2, h3, h4, h5, h6{
@@ -19,7 +20,8 @@ a:hover{
 
 
 /* Homepage styles*/
-.cover{
+.cover{ background-image: url(swirl.jpg);
+    background-size: cover;
     height:300px;
     margin-top:25%;
 }
