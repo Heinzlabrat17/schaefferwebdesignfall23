@@ -54,4 +54,7 @@ a:hover {
     img{width: 200px;height: 200px;}
     .center{ text-align: center;}
     .boom{ color: darksalmon; text-decoration: overline;}
-    
+   thead{background-color: #80598d;}
+   table:hover{color: aliceblue; border-style: dotted;}
+   tbody:hover{background-color: lightblue;}
+   td{padding-top: 150px;}
