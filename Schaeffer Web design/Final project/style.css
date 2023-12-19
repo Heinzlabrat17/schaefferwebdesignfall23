@@ -4,3 +4,4 @@ body{ background-color: black;}
 li:hover{background-color: darkgreen;}
 tbody:hover{background-color: darkgreen;border-style: double; border-color: bisque;}
 h3{color: beige;}
+a:hover{background-color: white;}
